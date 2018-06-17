@@ -1,0 +1,10 @@
+clear-day				3
+clear-night				4
+rain					5
+snow					6
+sleet					7
+wind					8
+fog						9
+cloudy					10	
+partly-cloudy-day		11
+partly-cloudy-night		12	
